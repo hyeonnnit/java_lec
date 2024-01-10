@@ -1,4 +1,4 @@
-package ex.ex17.oneway;
+package ex.ex17.Simplex;
 
 import java.io.BufferedReader;
 import java.io.IOException;
